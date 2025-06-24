@@ -1,0 +1,51 @@
+nav {
+    text-align: center;
+    background-color: aquamarine;
+   
+    
+    
+}
+ul{
+   
+}
+li {
+font-size: 20px;
+display: inline-block;
+ padding: 20px;
+
+margin: auto;
+width: auto;
+height: auto;
+text-align: center;
+    
+}
+h1 {
+    text-align: center;
+    background-color: wheat;
+    margin: 0;
+}
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+img {
+    border-radius: 20%;
+    display: block;
+    margin: auto;
+}
+
+p {
+    background-color: seashell;
+}
+.cuerpo{
+    display: block;
+    background-color: aqua;
+}
+section{
+    display: inline-block;
+
+    
+}
+video{
+    width: 100%;
+}
